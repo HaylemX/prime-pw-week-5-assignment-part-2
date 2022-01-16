@@ -1,6 +1,7 @@
 body {
   background-image: url(record.png);
   margin: 0;
+  background-repeat: repeat;
 }
 
 
